@@ -1,0 +1,34 @@
+#getBorder 
+{
+    margin-top: 202px !important;
+    border-radius: 50px;
+    box-shadow: 6px 10px 5px 6px rgba(0,0,0,0.8);
+}
+
+.modal-overlay 
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content 
+{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+}
+
+.app
+{
+    position: relative;
+}
+
