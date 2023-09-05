@@ -1,0 +1,18 @@
+{
+  "name": "reactfirst",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "json-server": "^0.17.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "shopping": "^1.0.0"
+  },
+  "description": ""
+}
